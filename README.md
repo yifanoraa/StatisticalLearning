@@ -1,3 +1,2 @@
-# StatisticalLearning
+# Statistical Learning Algorithm Implementation
 
-# Algorithm Implementation
